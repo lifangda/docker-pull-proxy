@@ -1,1 +1,8 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+ubuntu/squid registry.cn-hangzhou.aliyuncs.com/pkj/squid:latest
+langgenius/dify-api:1.1.3 registry.cn-hangzhou.aliyuncs.com/pkj/dify-api:1.1.3
+langgenius/dify-web:1.1.3 registry.cn-hangzhou.aliyuncs.com/pkj/dify-web:1.1.3
+postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/pkj/postgres:15-alpine
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/pkj/redis:6-alpine
+semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/pkj/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/pkj/dify-sandbox:0.2.1
+nginx:latest registry.cn-hangzhou.aliyuncs.com/pkj/nginx:latest
