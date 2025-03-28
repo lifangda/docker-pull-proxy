@@ -5,7 +5,6 @@ redis:6-alpine crpi-x5u11o2ztl7nveyz.cn-hangzhou.personal.cr.aliyuncs.com/pkj/re
 langgenius/dify-sandbox:0.2.11 crpi-x5u11o2ztl7nveyz.cn-hangzhou.personal.cr.aliyuncs.com/pkj/dify-sandbox:0.2.11
 langgenius/dify-plugin-daemon:0.0.6-local crpi-x5u11o2ztl7nveyz.cn-hangzhou.personal.cr.aliyuncs.com/pkj/dify-plugin-daemon:0.0.6-local 
 ubuntu/squid:latest crpi-x5u11o2ztl7nveyz.cn-hangzhou.personal.cr.aliyuncs.com/pkj/squid:latest
-certbot/certbot rpi-x5u11o2ztl7nveyz.cn-hangzhou.personal.cr.aliyuncs.com/pkj/certbot
 nginx:latest crpi-x5u11o2ztl7nveyz.cn-hangzhou.personal.cr.aliyuncs.com/pkj/nginx:latest
 semitechnologies/weaviate:1.19.0 crpi-x5u11o2ztl7nveyz.cn-hangzhou.personal.cr.aliyuncs.com/pkj/weaviate:1.19.0
 langgenius/qdrant:v1.7.3 crpi-x5u11o2ztl7nveyz.cn-hangzhou.personal.cr.aliyuncs.com/pkj/qdrant:v1.7.3
